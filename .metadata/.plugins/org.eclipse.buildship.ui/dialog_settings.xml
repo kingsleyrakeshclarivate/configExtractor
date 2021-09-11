@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.buildship.ui.wizard.project.import">
+		<item key="project_location" value="/Users/rakeshkingsley/Desktop/myProjectCode/wickedPortal/wicked-portal/lambda-api-subscriptions-reporter"/>
+		<item key="gradle_distribution" value="GRADLE_DISTRIBUTION(WRAPPER)"/>
+		<item key="apply_working_sets" value="false"/>
+		<list key="arguments">
+		</list>
+		<list key="working_sets">
+		</list>
+	</section>
+</section>

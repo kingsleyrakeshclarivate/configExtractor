@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <booleanAttribute key="de.toem.impulse.launchactivateLaunch" value="false"/>
+    <booleanAttribute key="de.toem.impulse.launchactivateTermination" value="false"/>
+    <intAttribute key="de.toem.impulse.launchdelayLaunch" value="0"/>
+    <intAttribute key="de.toem.impulse.launchlaunch" value="2"/>
+    <intAttribute key="de.toem.impulse.launchmode" value="3"/>
+    <stringAttribute key="de.toem.impulse.launchport" value=""/>
+    <booleanAttribute key="de.toem.impulse.launchrestart" value="true"/>
+    <intAttribute key="de.toem.impulse.launchterminate" value="1"/>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/configMapper/src/com/org/clarivate/ConfigMapper.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_START_ON_FIRST_THREAD" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.org.clarivate.ConfigMapper"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="configMapper"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="configMapper"/>
+</launchConfiguration>

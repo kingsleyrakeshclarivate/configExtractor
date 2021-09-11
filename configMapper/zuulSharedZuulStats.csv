@@ -1,0 +1,4 @@
+null,null,null,null,null,false,null,PASSTHRU,null,RequestHeaderAndParameterSanitizationFilter
+null,/api/zuulStats.*,null,/zuulStats,null,false,null,PASSTHRU,null,zuulStatsPreFilter
+null,/.*,null,null,null,false,null,PASSTHRU,null,DecorationPreFilter
+null,/.*,null,null,null,false,null,PASSTHRU,null,EntitlementPreFilter
